@@ -100,8 +100,8 @@ document.getElementById('minus-sugar').addEventListener('click', function () {
     if (sugar > 0) {
         sugar--
 
-        ccQuantity = document.getElementById('qty-sugar');
-        ccQuantity.textContent = sugar;
+        ssQuantity = document.getElementById('qty-sugar');
+        ssQuantity.textContent = sugar;
         totalQuantity = document.getElementById('qty-total');
         total = total - 1;
         totalQuantity.textContent = total;
