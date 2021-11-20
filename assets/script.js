@@ -1,4 +1,4 @@
-let yourName = "James Area" // HINT: Replace this with your own name!
+let yourName = "James Area" // Replace this with your own name!
 
 // We'll use these variables to track the counts of each cookie type
 let gb = 0      // Gingerbread
